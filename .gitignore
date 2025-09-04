@@ -60,3 +60,5 @@ ehthumbs.db
 Desktop.ini
 .DS_Store
 
+#Self
+Booking.API/booking.db
